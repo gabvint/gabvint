@@ -17,7 +17,7 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,javascript,python,mysql,html,css" alt="proglang"/>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,django,mysql,mongodb,postgresql" alt="frameworks"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,django,mysql,mongodb,postgresql,nodejs,express," alt="frameworks"/>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="tools"/>
 </div>
 
