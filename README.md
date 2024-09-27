@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h2 align="center">💻 Languages, Tools, and Frameworks I have studied or played around! 💻 </h2>
+<h2 align="center">💻 My Coding Journey: Languages, Tools, and Frameworks 💻 </h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,javascript,python,mysql,html,css" alt="proglang"/>
@@ -25,7 +25,7 @@
 <br>
 <div align="center">
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabvint&show_icons=true&theme=bear" alt="readmestats">
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvint&layout=compact&theme=bear" alt="readmestats">
+    <img width=390 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvint&layout=compact&theme=bear" alt="toplangs">
     <img src="https://streak-stats.demolab.com?user=gabvint&theme=bear&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=390" alt="GitHub Streak" />
 </div>
 
